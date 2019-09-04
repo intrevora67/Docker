@@ -1,4 +1,4 @@
-FROM C
+FROM gcc
 MAINTAINER Intrevora67
 ENV HOME /root
 RUN git clone https://github.com/intrevora67/Docker.git
